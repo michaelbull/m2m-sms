@@ -1,0 +1,325 @@
+/*
+Copyright (c) 2010-2015 Graham Edgecombe. All Rights Reserved.
+
+Permission is hereby granted for a copy of this file to be placed in the
+repository at https://github.com/MikeBull94/m2m-sms for demonstration purposes.
+This file may not be redistributed or modified in any other manner.
+*/
+
+/* general styling */
+body {
+    background-color: whitesmoke;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    margin: 0;
+}
+
+/* put us in the middle of the viewport */
+.center {
+    width: 680px;
+    margin: 0 auto;
+}
+
+/* page header */
+#header {
+    color: whitesmoke;
+    text-align: center;
+    background-color: #296fa5;
+    overflow: hidden; /* make sure the background overlaps the menubar */
+    margin: 0;
+}
+
+#header h1 {
+    margin: 2px;
+}
+
+/* horizontal lists */
+ul.horizontal li {
+    display: inline;
+}
+
+/* left justified list */
+ul.left {
+    float: left;
+}
+
+/* right justified list */
+ul.right {
+    float: right;
+}
+
+/* nav bar */
+#nav ul {
+    font-size: 80%;
+
+    /* remove extra space */
+    margin: 0;
+    padding: 0;
+}
+
+/* style list items in nav bar */
+#nav li {
+    color: white;
+}
+
+#nav ul.left li {
+    padding-left: 5px;
+}
+
+#nav ul.left li:first-child {
+    padding-left: 0;
+}
+
+#nav ul.right li {
+    padding-right: 5px;
+}
+
+#nav ul.right li:last-child {
+    padding-right: 0;
+}
+
+#nav a {
+    color: white;
+
+    /*remove underlines*/
+    text-decoration: none;
+
+    padding: 5px;
+    display: inline-block;
+}
+
+/* hovered/current tabs with white background */
+#nav a:hover, #nav a.current {
+    color: black;
+    background-color: white;
+    border-radius: 4px 4px 0 0;
+}
+
+#wrapper {
+    clear: both;
+    background-color: white;
+
+    /* border and drop shadow */
+    border: 1px solid #aaa;
+    border-top-width: 0;
+
+    -webkit-box-shadow: 0 10px 20px 5px #aaaaaa;
+    -moz-box-shadow: 0 10px 20px 5px #aaaaaa;
+    box-shadow: 0 10px 20px 5px #aaaaaa;
+}
+
+#content {
+    font-size: 80%;
+    padding: 10px;
+}
+
+h3 {
+    /* set the font */
+    font-size: 1.5em;
+    font-weight: bold;
+
+    /* set the border */
+    border: 0 solid #ddd;
+    border-bottom-width: 1px;
+
+    /* add some padding above the border line */
+    padding-bottom: 2px;
+
+    /* add some padding around the heading */
+    margin: 0.75em 0;
+}
+
+/* remove the margin from the first h3 */
+#content > h3:first-child {
+    margin-top: 0;
+}
+
+#footer {
+    text-align: center;
+    padding: 1px;
+    background-color: #505050;
+}
+
+#footer p {
+    padding: 0;
+    margin: 4px 0 0;
+}
+
+/* circuit board details table */
+table.board-details {
+    text-align: left;
+    width: 100%;
+    border-collapse: collapse; /* table borders use single line */
+}
+
+table.board-details td {
+    text-align: right;
+}
+
+/* registration details */
+.registration-details {
+    width: 100%;
+}
+
+/* centre the table */
+.registration-details table {
+    border: 1px solid #aaa;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.registration-details table th {
+    text-align: left;
+}
+
+/* widen the input boxes */
+.registration-details table input {
+    width: 250px;
+}
+
+/* make login button as wide as the input boxes */
+.registration-details table button {
+    width: 100%;
+}
+
+/* login details */
+.login-details {
+    width: 100%;
+}
+
+/* centre the table */
+.login-details table {
+    border: 1px solid #aaa;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.login-details table th {
+    text-align: left;
+}
+
+/* centre any text */
+.login-details p {
+    text-align: center;
+}
+
+/* widen the input boxes */
+.login-details table input {
+    width: 150px;
+}
+
+/* make login button as wide as the input boxes */
+.login-details table button {
+    width: 100%;
+}
+
+/* circuit board status table */
+
+.status {
+    display: inline-block;
+    width: 100%;
+}
+
+.status table {
+    float: left;
+    width: 65%;
+}
+
+.status .chart {
+    float: right;
+    width: 34%;
+    height: 151px;
+    border: 1px solid #aaa;
+}
+
+/* sprite sheet */
+
+.menu {
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+
+.icon-statuses {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 0 no-repeat;
+}
+
+.icon-updates {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -16px no-repeat;
+}
+
+.icon-debug {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -32px no-repeat;
+}
+
+.icon-date {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -48px no-repeat;
+}
+
+.icon-logout {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -64px no-repeat;
+}
+
+.icon-home {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -80px no-repeat;
+}
+
+.icon-login {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -96px no-repeat;
+}
+
+.icon-switch {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -112px no-repeat;
+}
+
+.icon-keypad {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -128px no-repeat;
+}
+
+.icon-fan {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -144px no-repeat;
+}
+
+.icon-user {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -160px no-repeat;
+}
+
+.icon-register {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -176px no-repeat;
+}
+
+.icon-temperature {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -192px no-repeat;
+}
+
+.icon-error {
+    width: 16px;
+    height: 16px;
+    background: url("../media/nav.svg") 0 -208px no-repeat;
+}

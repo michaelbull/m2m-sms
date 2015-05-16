@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="31"
+   width="88"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="css.svg">
+  <defs
+     id="defs542">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3525">
+      <rect
+         style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+         id="rect3527"
+         width="88"
+         height="31"
+         x="2.4424907e-15"
+         y="990.36218" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="790"
+     id="namedview540"
+     showgrid="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="8.8387097"
+     inkscape:cx="34.948905"
+     inkscape:cy="21.948905"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3521"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-990.36218)"
+     id="g6"
+     clip-path="url(#clipPath3525)">
+    <g
+       transform="translate(0,990.36218)"
+       id="g8">
+      <g
+         shape-rendering="geometricPrecision"
+         text-rendering="geometricPrecision"
+         image-rendering="optimizeQuality"
+         id="g10">
+        <g
+           shape-rendering="geometricPrecision"
+           text-rendering="geometricPrecision"
+           image-rendering="optimizeQuality"
+           id="g12">
+          <path
+             d="M 0,0 88,0 88,31 0,31 0,0 z"
+             id="path14"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             d="M 44,15.5"
+             id="path16"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             d="M 0,0 83,0 83,31 0,31 0,0 z"
+             id="path18"
+             inkscape:connector-curvature="0"
+             style="fill:#b3cee1" />
+          <path
+             d="M 41.5,15.5"
+             id="path20"
+             inkscape:connector-curvature="0"
+             style="fill:#b3cee1" />
+          <path
+             d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+             id="path22"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="M 18.587,15.5"
+             id="path24"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="m 4.692,2.291 40.005,0 0,24.606 -40.005,0 0,-24.606 z"
+             id="path26"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             d="M 24.695,14.594"
+             id="path28"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <defs
+             id="defs30">
+            <polygon
+               id="XMLID_640_"
+               points="0,31 0,30 0,30 83,30 83,31 " />
+          </defs>
+          <use
+             xlink:href="#XMLID_640_"
+             height="1"
+             width="1"
+             y="0"
+             x="0"
+             id="use33"
+             style="fill:#504d4c" />
+          <clipPath
+             id="XMLID_666_">
+            <use
+               xlink:href="#XMLID_640_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use36" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_666_)"
+             id="g38">
+            <path
+               d="M 0,0 88,0 88,31 0,31 0,0 z"
+               id="path40"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 44,15.5"
+               id="path42"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 0,0 z"
+               id="path44"
+               inkscape:connector-curvature="0"
+               style="fill:#48494b" />
+            <path
+               d="M 41.5,15.5"
+               id="path46"
+               inkscape:connector-curvature="0"
+               style="fill:#48494b" />
+            <path
+               d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+               id="path48"
+               inkscape:connector-curvature="0"
+               style="fill:#4f4f4f" />
+            <path
+               d="M 18.587,15.5"
+               id="path50"
+               inkscape:connector-curvature="0"
+               style="fill:#4f4f4f" />
+          </g>
+          <defs
+             id="defs52">
+            <polygon
+               id="XMLID_642_"
+               points="82,31 82,0 82,0 83,0 83,31 " />
+          </defs>
+          <use
+             xlink:href="#XMLID_642_"
+             height="1"
+             width="1"
+             y="0"
+             x="0"
+             id="use55"
+             style="fill:#504d4c" />
+          <clipPath
+             id="XMLID_667_">
+            <use
+               xlink:href="#XMLID_642_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use58" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_667_)"
+             id="g60">
+            <path
+               d="M 0,0 88,0 88,31 0,31 0,0 z"
+               id="path62"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 44,15.5"
+               id="path64"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 0,0 z"
+               id="path66"
+               inkscape:connector-curvature="0"
+               style="fill:#48494b" />
+            <path
+               d="M 41.5,15.5"
+               id="path68"
+               inkscape:connector-curvature="0"
+               style="fill:#48494b" />
+            <defs
+               id="defs70">
+              <polygon
+                 id="XMLID_644_"
+                 points="0,31 0,30 0,30 83,30 83,31 " />
+            </defs>
+            <use
+               xlink:href="#XMLID_644_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use73"
+               style="fill:#191919" />
+            <clipPath
+               id="XMLID_668_">
+              <use
+                 xlink:href="#XMLID_644_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use76" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_668_)"
+               id="g78">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 0,0 z"
+                 id="path80"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 44,15.5"
+                 id="path82"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 0,0 z"
+                 id="path84"
+                 inkscape:connector-curvature="0"
+                 style="fill:#181818" />
+              <path
+                 d="M 41.5,15.5"
+                 id="path86"
+                 inkscape:connector-curvature="0"
+                 style="fill:#181818" />
+              <path
+                 d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                 id="path88"
+                 inkscape:connector-curvature="0"
+                 style="fill:#191919" />
+              <path
+                 d="M 18.587,15.5"
+                 id="path90"
+                 inkscape:connector-curvature="0"
+                 style="fill:#191919" />
+            </g>
+          </g>
+          <path
+             d="M 0,0 1,0 1,31 0,31 0,0 z"
+             id="path92"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             d="M 0.5,15.5"
+             id="path94"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <defs
+             id="defs96">
+            <polygon
+               id="XMLID_646_"
+               points="2.16,30.005 2.16,29.005 2.16,29.005 82.16,29.005 82.16,30.005 " />
+          </defs>
+          <use
+             xlink:href="#XMLID_646_"
+             height="1"
+             width="1"
+             y="0"
+             x="0"
+             id="use99"
+             style="fill:#9e9c9c" />
+          <clipPath
+             id="XMLID_669_">
+            <use
+               xlink:href="#XMLID_646_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use102" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_669_)"
+             id="g104">
+            <path
+               d="M 0,0 88,0 88,31 0,31 0,0 z"
+               id="path106"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 44,15.5"
+               id="path108"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 0,0 z"
+               id="path110"
+               inkscape:connector-curvature="0"
+               style="fill:#9097a0" />
+            <path
+               d="M 41.5,15.5"
+               id="path112"
+               inkscape:connector-curvature="0"
+               style="fill:#9097a0" />
+            <path
+               d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+               id="path114"
+               inkscape:connector-curvature="0"
+               style="fill:#b5b5b5" />
+            <path
+               d="M 18.587,15.5"
+               id="path116"
+               inkscape:connector-curvature="0"
+               style="fill:#b5b5b5" />
+            <defs
+               id="defs118">
+              <polygon
+                 id="XMLID_648_"
+                 points="0,31 0,30 0,30 83,30 83,31 " />
+            </defs>
+            <use
+               xlink:href="#XMLID_648_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use121"
+               style="fill:#383838" />
+            <clipPath
+               id="XMLID_670_">
+              <use
+                 xlink:href="#XMLID_648_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use124" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_670_)"
+               id="g126">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 0,0 z"
+                 id="path128"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 44,15.5"
+                 id="path130"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 0,0 z"
+                 id="path132"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536" />
+              <path
+                 d="M 41.5,15.5"
+                 id="path134"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536" />
+              <path
+                 d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                 id="path136"
+                 inkscape:connector-curvature="0"
+                 style="fill:#383838" />
+              <path
+                 d="M 18.587,15.5"
+                 id="path138"
+                 inkscape:connector-curvature="0"
+                 style="fill:#383838" />
+            </g>
+            <defs
+               id="defs140">
+              <polygon
+                 id="XMLID_650_"
+                 points="82,31 82,0 82,0 83,0 83,31 " />
+            </defs>
+            <use
+               xlink:href="#XMLID_650_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use143"
+               style="fill:#383838" />
+            <clipPath
+               id="XMLID_671_">
+              <use
+                 xlink:href="#XMLID_650_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use146" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_671_)"
+               id="g148">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 0,0 z"
+                 id="path150"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 44,15.5"
+                 id="path152"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 0,0 z"
+                 id="path154"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536" />
+              <path
+                 d="M 41.5,15.5"
+                 id="path156"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536" />
+              <defs
+                 id="defs158">
+                <polygon
+                   id="XMLID_652_"
+                   points="0,31 0,30 0,30 83,30 83,31 " />
+              </defs>
+              <use
+                 xlink:href="#XMLID_652_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use161"
+                 style="fill:#131313" />
+              <clipPath
+                 id="XMLID_672_">
+                <use
+                   xlink:href="#XMLID_652_"
+                   height="1"
+                   width="1"
+                   y="0"
+                   x="0"
+                   id="use164" />
+              </clipPath>
+              <g
+                 clip-path="url(#XMLID_672_)"
+                 id="g166">
+                <path
+                   d="M 0,0 88,0 88,31 0,31 0,0 z"
+                   id="path168"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 44,15.5"
+                   id="path170"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 0,0 83,0 83,31 0,31 0,0 z"
+                   id="path172"
+                   inkscape:connector-curvature="0"
+                   style="fill:#131313" />
+                <path
+                   d="M 41.5,15.5"
+                   id="path174"
+                   inkscape:connector-curvature="0"
+                   style="fill:#131313" />
+                <path
+                   d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                   id="path176"
+                   inkscape:connector-curvature="0"
+                   style="fill:#131313" />
+                <path
+                   d="M 18.587,15.5"
+                   id="path178"
+                   inkscape:connector-curvature="0"
+                   style="fill:#131313" />
+              </g>
+            </g>
+          </g>
+          <defs
+             id="defs180">
+            <polygon
+               id="XMLID_654_"
+               points="80.806,31 80.806,1 80.806,1 81.806,1 81.806,31 " />
+          </defs>
+          <use
+             xlink:href="#XMLID_654_"
+             height="1"
+             width="1"
+             y="0"
+             x="0"
+             id="use183"
+             style="fill:#9e9c9c" />
+          <clipPath
+             id="XMLID_673_">
+            <use
+               xlink:href="#XMLID_654_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use186" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_673_)"
+             id="g188">
+            <path
+               d="M 0,0 88,0 88,31 0,31 0,0 z"
+               id="path190"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 44,15.5"
+               id="path192"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 0,0 z"
+               id="path194"
+               inkscape:connector-curvature="0"
+               style="fill:#9097a0" />
+            <path
+               d="M 41.5,15.5"
+               id="path196"
+               inkscape:connector-curvature="0"
+               style="fill:#9097a0" />
+            <defs
+               id="defs198">
+              <polygon
+                 id="XMLID_656_"
+                 points="0,31 0,30 0,30 83,30 83,31 " />
+            </defs>
+            <use
+               xlink:href="#XMLID_656_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use201"
+               style="fill:#383838" />
+            <clipPath
+               id="XMLID_674_">
+              <use
+                 xlink:href="#XMLID_656_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use204" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_674_)"
+               id="g206">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 0,0 z"
+                 id="path208"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 44,15.5"
+                 id="path210"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 0,0 z"
+                 id="path212"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536" />
+              <path
+                 d="M 41.5,15.5"
+                 id="path214"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536" />
+              <path
+                 d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                 id="path216"
+                 inkscape:connector-curvature="0"
+                 style="fill:#383838" />
+              <path
+                 d="M 18.587,15.5"
+                 id="path218"
+                 inkscape:connector-curvature="0"
+                 style="fill:#383838" />
+            </g>
+            <defs
+               id="defs220">
+              <polygon
+                 id="XMLID_658_"
+                 points="2.16,30.005 2.16,29.005 2.16,29.005 82.16,29.005 82.16,30.005 " />
+            </defs>
+            <use
+               xlink:href="#XMLID_658_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use223"
+               style="fill:#818181" />
+            <clipPath
+               id="XMLID_675_">
+              <use
+                 xlink:href="#XMLID_658_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use226" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_675_)"
+               id="g228">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 0,0 z"
+                 id="path230"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 44,15.5"
+                 id="path232"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 0,0 z"
+                 id="path234"
+                 inkscape:connector-curvature="0"
+                 style="fill:#6e7176" />
+              <path
+                 d="M 41.5,15.5"
+                 id="path236"
+                 inkscape:connector-curvature="0"
+                 style="fill:#6e7176" />
+              <path
+                 d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                 id="path238"
+                 inkscape:connector-curvature="0"
+                 style="fill:#818181" />
+              <path
+                 d="M 18.587,15.5"
+                 id="path240"
+                 inkscape:connector-curvature="0"
+                 style="fill:#818181" />
+              <defs
+                 id="defs242">
+                <polygon
+                   id="XMLID_660_"
+                   points="0,31 0,30 0,30 83,30 83,31 " />
+              </defs>
+              <use
+                 xlink:href="#XMLID_660_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use245"
+                 style="fill:#272727" />
+              <clipPath
+                 id="XMLID_676_">
+                <use
+                   xlink:href="#XMLID_660_"
+                   height="1"
+                   width="1"
+                   y="0"
+                   x="0"
+                   id="use248" />
+              </clipPath>
+              <g
+                 clip-path="url(#XMLID_676_)"
+                 id="g250">
+                <path
+                   d="M 0,0 88,0 88,31 0,31 0,0 z"
+                   id="path252"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 44,15.5"
+                   id="path254"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 0,0 83,0 83,31 0,31 0,0 z"
+                   id="path256"
+                   inkscape:connector-curvature="0"
+                   style="fill:#252626" />
+                <path
+                   d="M 41.5,15.5"
+                   id="path258"
+                   inkscape:connector-curvature="0"
+                   style="fill:#252626" />
+                <path
+                   d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                   id="path260"
+                   inkscape:connector-curvature="0"
+                   style="fill:#272727" />
+                <path
+                   d="M 18.587,15.5"
+                   id="path262"
+                   inkscape:connector-curvature="0"
+                   style="fill:#272727" />
+              </g>
+              <defs
+                 id="defs264">
+                <polygon
+                   id="XMLID_662_"
+                   points="82,31 82,0 82,0 83,0 83,31 " />
+              </defs>
+              <use
+                 xlink:href="#XMLID_662_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use267"
+                 style="fill:#272727" />
+              <clipPath
+                 id="XMLID_677_">
+                <use
+                   xlink:href="#XMLID_662_"
+                   height="1"
+                   width="1"
+                   y="0"
+                   x="0"
+                   id="use270" />
+              </clipPath>
+              <g
+                 clip-path="url(#XMLID_677_)"
+                 id="g272">
+                <path
+                   d="M 0,0 88,0 88,31 0,31 0,0 z"
+                   id="path274"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 44,15.5"
+                   id="path276"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 0,0 83,0 83,31 0,31 0,0 z"
+                   id="path278"
+                   inkscape:connector-curvature="0"
+                   style="fill:#252626" />
+                <path
+                   d="M 41.5,15.5"
+                   id="path280"
+                   inkscape:connector-curvature="0"
+                   style="fill:#252626" />
+                <defs
+                   id="defs282">
+                  <polygon
+                     id="XMLID_664_"
+                     points="0,31 0,30 0,30 83,30 83,31 " />
+                </defs>
+                <use
+                   xlink:href="#XMLID_664_"
+                   height="1"
+                   width="1"
+                   y="0"
+                   x="0"
+                   id="use285"
+                   style="fill:#101010" />
+                <clipPath
+                   id="XMLID_678_">
+                  <use
+                     xlink:href="#XMLID_664_"
+                     height="1"
+                     width="1"
+                     y="0"
+                     x="0"
+                     id="use288" />
+                </clipPath>
+                <g
+                   clip-path="url(#XMLID_678_)"
+                   id="g290">
+                  <path
+                     d="M 0,0 88,0 88,31 0,31 0,0 z"
+                     id="path292"
+                     inkscape:connector-curvature="0"
+                     style="fill:none" />
+                  <path
+                     d="M 44,15.5"
+                     id="path294"
+                     inkscape:connector-curvature="0"
+                     style="fill:none" />
+                  <path
+                     d="M 0,0 83,0 83,31 0,31 0,0 z"
+                     id="path296"
+                     inkscape:connector-curvature="0"
+                     style="fill:#101010" />
+                  <path
+                     d="M 41.5,15.5"
+                     id="path298"
+                     inkscape:connector-curvature="0"
+                     style="fill:#101010" />
+                  <path
+                     d="m 0.365,0 36.444,0 0,31 -36.444,0 0,-31 z"
+                     id="path300"
+                     inkscape:connector-curvature="0"
+                     style="fill:#101010" />
+                  <path
+                     d="M 18.587,15.5"
+                     id="path302"
+                     inkscape:connector-curvature="0"
+                     style="fill:#101010" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <path
+             d="M 0,0 83,0 83,1 0,1 0,0 z"
+             id="path304"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             d="M 41.5,0.5"
+             id="path306"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             d="m 68.273,18.844 6.018,5.504 11.71,-11.711"
+             stroke-miterlimit="3.86369991"
+             id="path308"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#005a9c;stroke-width:4.81169987;stroke-miterlimit:3.86369991" />
+          <path
+             clip-rule="evenodd"
+             d="m 45.772,18.318 c -0.345,0.179 -0.705,0.314 -1.079,0.406 -0.375,0.091 -0.765,0.136 -1.172,0.136 -1.214,0 -2.176,-0.338 -2.886,-1.015 -0.71,-0.681 -1.064,-1.602 -1.064,-2.764 0,-1.165 0.354,-2.086 1.064,-2.763 0.709,-0.681 1.671,-1.021 2.886,-1.021 0.407,0 0.797,0.045 1.172,0.137 0.374,0.091 0.734,0.226 1.079,0.405 v 1.508 c -0.349,-0.237 -0.692,-0.412 -1.03,-0.522 -0.339,-0.111 -0.695,-0.166 -1.069,-0.166 -0.671,0 -1.198,0.215 -1.582,0.645 -0.384,0.43 -0.576,1.022 -0.576,1.777 0,0.752 0.192,1.343 0.576,1.773 0.384,0.43 0.911,0.644 1.582,0.644 0.374,0 0.73,-0.055 1.069,-0.166 0.338,-0.111 0.682,-0.285 1.03,-0.522 v 1.508 z"
+             id="path310"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             clip-rule="evenodd"
+             d="m 52.502,11.658 v 1.543 c -0.4,-0.179 -0.791,-0.314 -1.172,-0.405 -0.381,-0.091 -0.741,-0.137 -1.079,-0.137 -0.449,0 -0.781,0.062 -0.996,0.186 -0.215,0.124 -0.322,0.315 -0.322,0.576 0,0.195 0.072,0.348 0.215,0.459 0.146,0.107 0.41,0.2 0.791,0.278 l 0.801,0.161 c 0.811,0.163 1.387,0.41 1.729,0.742 0.342,0.332 0.513,0.804 0.513,1.416 0,0.804 -0.239,1.403 -0.718,1.797 -0.475,0.391 -1.203,0.585 -2.183,0.585 -0.462,0 -0.926,-0.043 -1.392,-0.131 C 48.224,18.64 47.758,18.51 47.293,18.337 V 16.75 c 0.466,0.247 0.915,0.434 1.348,0.562 0.437,0.124 0.856,0.185 1.26,0.185 0.41,0 0.725,-0.068 0.942,-0.205 0.218,-0.137 0.327,-0.332 0.327,-0.586 0,-0.228 -0.075,-0.404 -0.225,-0.527 -0.146,-0.124 -0.441,-0.234 -0.884,-0.333 l -0.728,-0.161 c -0.729,-0.156 -1.263,-0.406 -1.602,-0.748 -0.335,-0.342 -0.503,-0.802 -0.503,-1.381 0,-0.726 0.234,-1.284 0.703,-1.675 0.469,-0.391 1.143,-0.586 2.021,-0.586 0.4,0 0.813,0.031 1.235,0.093 0.425,0.06 0.863,0.15 1.315,0.27 z"
+             id="path312"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             clip-rule="evenodd"
+             d="m 59.805,11.658 v 1.543 c -0.4,-0.179 -0.791,-0.314 -1.172,-0.405 -0.381,-0.091 -0.741,-0.137 -1.079,-0.137 -0.449,0 -0.781,0.062 -0.996,0.186 -0.215,0.124 -0.322,0.315 -0.322,0.576 0,0.195 0.072,0.348 0.215,0.459 0.146,0.107 0.41,0.2 0.791,0.278 l 0.801,0.161 c 0.811,0.163 1.387,0.41 1.729,0.742 0.342,0.332 0.513,0.804 0.513,1.416 0,0.804 -0.239,1.403 -0.718,1.797 -0.475,0.391 -1.203,0.585 -2.183,0.585 -0.462,0 -0.926,-0.043 -1.392,-0.131 C 55.526,18.64 55.061,18.51 54.596,18.337 V 16.75 c 0.465,0.247 0.915,0.434 1.348,0.562 0.436,0.124 0.856,0.185 1.26,0.185 0.41,0 0.724,-0.068 0.942,-0.205 0.218,-0.137 0.327,-0.332 0.327,-0.586 0,-0.228 -0.075,-0.404 -0.225,-0.527 -0.146,-0.124 -0.441,-0.234 -0.884,-0.333 l -0.728,-0.161 c -0.729,-0.156 -1.263,-0.406 -1.602,-0.748 -0.335,-0.342 -0.503,-0.802 -0.503,-1.381 0,-0.726 0.234,-1.284 0.703,-1.675 0.469,-0.391 1.143,-0.586 2.021,-0.586 0.4,0 0.812,0.031 1.235,0.093 0.425,0.06 0.862,0.15 1.315,0.27 z"
+             id="path314"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 33.077,7.037 0.334,2.034 -1.185,2.266 c 0,0 -0.455,-0.961 -1.21,-1.493 -0.636,-0.449 -1.051,-0.546 -1.699,-0.412 -0.833,0.171 -1.777,1.167 -2.189,2.395 -0.493,1.469 -0.498,2.179 -0.515,2.833 -0.027,1.046 0.137,1.665 0.137,1.665 0,0 -0.719,-1.331 -0.712,-3.279 0.005,-1.391 0.223,-2.652 0.867,-3.896 0.566,-1.094 1.408,-1.751 2.154,-1.828 0.772,-0.08 1.382,0.292 1.854,0.695 0.495,0.423 0.996,1.347 0.996,1.347 l 1.168,-2.327 z"
+             id="path316"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 33.222,18.546 c 0,0 -0.523,0.936 -0.85,1.296 -0.326,0.36 -0.91,0.996 -1.631,1.313 -0.721,0.317 -1.099,0.377 -1.811,0.309 -0.712,-0.069 -1.374,-0.481 -1.605,-0.652 -0.232,-0.172 -0.824,-0.678 -1.159,-1.15 -0.335,-0.472 -0.858,-1.417 -0.858,-1.417 0,0 0.292,0.946 0.474,1.348 0.105,0.231 0.428,0.938 0.886,1.553 0.427,0.574 1.257,1.562 2.519,1.786 1.262,0.223 2.128,-0.344 2.343,-0.481 0.214,-0.137 0.667,-0.516 0.953,-0.822 0.299,-0.32 0.582,-0.728 0.738,-0.972 0.114,-0.178 0.301,-0.541 0.301,-0.541 l -0.3,-1.57 z"
+             id="path318"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11.437,7.127 2.852,9.698 2.852,-9.698 h 2.065 L 14.486,23.06 H 14.289 L 11.338,13.185 8.388,23.06 H 8.191 L 3.47,7.127 h 2.065 l 2.852,9.698 1.928,-6.531 -0.943,-3.167 h 2.065 z"
+             id="path320"
+             inkscape:connector-curvature="0"
+             style="fill:#005a9c" />
+          <path
+             d="m 25.072,17.946 c 0,1.443 -0.384,2.656 -1.151,3.64 -0.767,0.983 -1.76,1.475 -2.98,1.475 -0.918,0 -1.718,-0.292 -2.4,-0.875 -0.682,-0.583 -1.187,-1.374 -1.515,-2.371 l 1.613,-0.668 c 0.236,0.604 0.548,1.079 0.935,1.426 0.387,0.348 0.843,0.521 1.367,0.521 0.551,0 1.016,-0.308 1.397,-0.924 0.381,-0.616 0.571,-1.357 0.571,-2.223 0,-0.957 -0.204,-1.698 -0.61,-2.223 C 21.827,15.108 21.085,14.8 20.076,14.8 h -0.787 v -0.944 l 2.754,-4.761 h -3.325 l -0.925,1.574 h -0.59 V 7.127 h 7.672 v 0.964 l -2.912,5.016 c 1.023,0.328 1.797,0.925 2.321,1.791 0.525,0.865 0.788,1.881 0.788,3.048 z"
+             id="path322"
+             inkscape:connector-curvature="0"
+             style="fill:#005a9c" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(0,1021.3622)"
+       id="g324">
+      <g
+         shape-rendering="geometricPrecision"
+         text-rendering="geometricPrecision"
+         image-rendering="optimizeQuality"
+         id="g326">
+        <g
+           shape-rendering="geometricPrecision"
+           text-rendering="geometricPrecision"
+           image-rendering="optimizeQuality"
+           id="g328">
+          <path
+             d="M 0,0 88,0 88,31 0,31 z"
+             id="path330"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             d="M 0,0 83,0 83,31 0,31 z"
+             id="path332"
+             inkscape:connector-curvature="0"
+             style="fill:#b3cee1;fill-rule:evenodd" />
+          <path
+             d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+             id="path334"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-rule:evenodd" />
+          <defs
+             id="defs336">
+            <rect
+               id="XMLID_256_"
+               y="30"
+               width="83"
+               x="0"
+               height="1" />
+          </defs>
+          <use
+             xlink:href="#XMLID_256_"
+             height="1"
+             width="1"
+             clip-rule="evenodd"
+             y="0"
+             x="0"
+             id="use339"
+             style="fill:#504d4c;fill-rule:evenodd" />
+          <clipPath
+             id="XMLID_278_">
+            <use
+               xlink:href="#XMLID_256_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use342" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_278_)"
+             id="g344">
+            <path
+               d="M 0,0 88,0 88,31 0,31 z"
+               id="path346"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 z"
+               id="path348"
+               inkscape:connector-curvature="0"
+               style="fill:#48494b;fill-rule:evenodd" />
+            <path
+               d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+               id="path350"
+               inkscape:connector-curvature="0"
+               style="fill:#4f4f4f;fill-rule:evenodd" />
+          </g>
+          <defs
+             id="defs352">
+            <rect
+               id="XMLID_258_"
+               y="0"
+               width="1"
+               x="82"
+               height="31" />
+          </defs>
+          <use
+             xlink:href="#XMLID_258_"
+             height="1"
+             width="1"
+             clip-rule="evenodd"
+             y="0"
+             x="0"
+             id="use355"
+             style="fill:#504d4c;fill-rule:evenodd" />
+          <clipPath
+             id="XMLID_279_">
+            <use
+               xlink:href="#XMLID_258_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use358" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_279_)"
+             id="g360">
+            <path
+               d="M 0,0 88,0 88,31 0,31 z"
+               id="path362"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 z"
+               id="path364"
+               inkscape:connector-curvature="0"
+               style="fill:#48494b;fill-rule:evenodd" />
+            <defs
+               id="defs366">
+              <rect
+                 id="XMLID_260_"
+                 y="30"
+                 width="83"
+                 x="0"
+                 height="1" />
+            </defs>
+            <use
+               xlink:href="#XMLID_260_"
+               height="1"
+               width="1"
+               clip-rule="evenodd"
+               y="0"
+               x="0"
+               id="use369"
+               style="fill:#191919;fill-rule:evenodd" />
+            <clipPath
+               id="XMLID_280_">
+              <use
+                 xlink:href="#XMLID_260_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use372" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_280_)"
+               id="g374">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 z"
+                 id="path376"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 z"
+                 id="path378"
+                 inkscape:connector-curvature="0"
+                 style="fill:#181818;fill-rule:evenodd" />
+              <path
+                 d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+                 id="path380"
+                 inkscape:connector-curvature="0"
+                 style="fill:#191919;fill-rule:evenodd" />
+            </g>
+          </g>
+          <path
+             d="M 0,0 1,0 1,31 0,31 z"
+             id="path382"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc;fill-rule:evenodd" />
+          <defs
+             id="defs384">
+            <rect
+               id="XMLID_262_"
+               y="1"
+               width="1"
+               x="80.806"
+               height="30" />
+          </defs>
+          <use
+             xlink:href="#XMLID_262_"
+             height="1"
+             width="1"
+             clip-rule="evenodd"
+             y="0"
+             x="0"
+             id="use387"
+             style="fill:#9e9c9c;fill-rule:evenodd" />
+          <clipPath
+             id="XMLID_281_">
+            <use
+               xlink:href="#XMLID_262_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use390" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_281_)"
+             id="g392">
+            <path
+               d="M 0,0 88,0 88,31 0,31 z"
+               id="path394"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 z"
+               id="path396"
+               inkscape:connector-curvature="0"
+               style="fill:#9097a0;fill-rule:evenodd" />
+            <defs
+               id="defs398">
+              <rect
+                 id="XMLID_264_"
+                 y="30"
+                 width="83"
+                 x="0"
+                 height="1" />
+            </defs>
+            <use
+               xlink:href="#XMLID_264_"
+               height="1"
+               width="1"
+               clip-rule="evenodd"
+               y="0"
+               x="0"
+               id="use401"
+               style="fill:#383838;fill-rule:evenodd" />
+            <clipPath
+               id="XMLID_282_">
+              <use
+                 xlink:href="#XMLID_264_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use404" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_282_)"
+               id="g406">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 z"
+                 id="path408"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 z"
+                 id="path410"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536;fill-rule:evenodd" />
+              <path
+                 d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+                 id="path412"
+                 inkscape:connector-curvature="0"
+                 style="fill:#383838;fill-rule:evenodd" />
+            </g>
+          </g>
+          <path
+             d="m 44.697,26.897 -40.005,0 0,-24.606 0,0 40.005,0 z"
+             id="path414"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             d="M 24.695,14.594"
+             id="path416"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <defs
+             id="defs418">
+            <polygon
+               id="XMLID_266_"
+               points="2.16,29.005 82.16,29.005 82.16,30.005 2.16,30.005 2.16,29.005 " />
+          </defs>
+          <use
+             xlink:href="#XMLID_266_"
+             height="1"
+             width="1"
+             y="0"
+             x="0"
+             id="use421"
+             style="fill:#9e9c9c" />
+          <clipPath
+             id="XMLID_283_">
+            <use
+               xlink:href="#XMLID_266_"
+               height="1"
+               width="1"
+               y="0"
+               x="0"
+               id="use424" />
+          </clipPath>
+          <g
+             clip-path="url(#XMLID_283_)"
+             id="g426">
+            <path
+               d="M 0,0 88,0 88,31 0,31 z"
+               id="path428"
+               inkscape:connector-curvature="0"
+               style="fill:none" />
+            <path
+               d="M 0,0 83,0 83,31 0,31 z"
+               id="path430"
+               inkscape:connector-curvature="0"
+               style="fill:#9097a0;fill-rule:evenodd" />
+            <path
+               d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+               id="path432"
+               inkscape:connector-curvature="0"
+               style="fill:#b5b5b5;fill-rule:evenodd" />
+            <defs
+               id="defs434">
+              <rect
+                 id="XMLID_268_"
+                 y="30"
+                 width="83"
+                 x="0"
+                 height="1" />
+            </defs>
+            <use
+               xlink:href="#XMLID_268_"
+               height="1"
+               width="1"
+               clip-rule="evenodd"
+               y="0"
+               x="0"
+               id="use437"
+               style="fill:#383838;fill-rule:evenodd" />
+            <clipPath
+               id="XMLID_284_">
+              <use
+                 xlink:href="#XMLID_268_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use440" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_284_)"
+               id="g442">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 z"
+                 id="path444"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 z"
+                 id="path446"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536;fill-rule:evenodd" />
+              <path
+                 d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+                 id="path448"
+                 inkscape:connector-curvature="0"
+                 style="fill:#383838;fill-rule:evenodd" />
+            </g>
+            <defs
+               id="defs450">
+              <rect
+                 id="XMLID_270_"
+                 y="0"
+                 width="1"
+                 x="82"
+                 height="31" />
+            </defs>
+            <use
+               xlink:href="#XMLID_270_"
+               height="1"
+               width="1"
+               clip-rule="evenodd"
+               y="0"
+               x="0"
+               id="use453"
+               style="fill:#383838;fill-rule:evenodd" />
+            <clipPath
+               id="XMLID_285_">
+              <use
+                 xlink:href="#XMLID_270_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use456" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_285_)"
+               id="g458">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 z"
+                 id="path460"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 z"
+                 id="path462"
+                 inkscape:connector-curvature="0"
+                 style="fill:#343536;fill-rule:evenodd" />
+              <defs
+                 id="defs464">
+                <rect
+                   id="XMLID_272_"
+                   y="30"
+                   width="83"
+                   x="0"
+                   height="1" />
+              </defs>
+              <use
+                 xlink:href="#XMLID_272_"
+                 height="1"
+                 width="1"
+                 clip-rule="evenodd"
+                 y="0"
+                 x="0"
+                 id="use467"
+                 style="fill:#131313;fill-rule:evenodd" />
+              <clipPath
+                 id="XMLID_286_">
+                <use
+                   xlink:href="#XMLID_272_"
+                   height="1"
+                   width="1"
+                   y="0"
+                   x="0"
+                   id="use470" />
+              </clipPath>
+              <g
+                 clip-path="url(#XMLID_286_)"
+                 id="g472">
+                <path
+                   d="M 0,0 88,0 88,31 0,31 z"
+                   id="path474"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 0,0 83,0 83,31 0,31 z"
+                   id="path476"
+                   inkscape:connector-curvature="0"
+                   style="fill:#131313;fill-rule:evenodd" />
+                <path
+                   d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+                   id="path478"
+                   inkscape:connector-curvature="0"
+                   style="fill:#131313;fill-rule:evenodd" />
+              </g>
+            </g>
+            <defs
+               id="defs480">
+              <rect
+                 id="XMLID_274_"
+                 y="1"
+                 width="1"
+                 x="80.806"
+                 height="30" />
+            </defs>
+            <use
+               xlink:href="#XMLID_274_"
+               height="1"
+               width="1"
+               clip-rule="evenodd"
+               y="0"
+               x="0"
+               id="use483"
+               style="fill:#818181;fill-rule:evenodd" />
+            <clipPath
+               id="XMLID_287_">
+              <use
+                 xlink:href="#XMLID_274_"
+                 height="1"
+                 width="1"
+                 y="0"
+                 x="0"
+                 id="use486" />
+            </clipPath>
+            <g
+               clip-path="url(#XMLID_287_)"
+               id="g488">
+              <path
+                 d="M 0,0 88,0 88,31 0,31 z"
+                 id="path490"
+                 inkscape:connector-curvature="0"
+                 style="fill:none" />
+              <path
+                 d="M 0,0 83,0 83,31 0,31 z"
+                 id="path492"
+                 inkscape:connector-curvature="0"
+                 style="fill:#6e7176;fill-rule:evenodd" />
+              <defs
+                 id="defs494">
+                <rect
+                   id="XMLID_276_"
+                   y="30"
+                   width="83"
+                   x="0"
+                   height="1" />
+              </defs>
+              <use
+                 xlink:href="#XMLID_276_"
+                 height="1"
+                 width="1"
+                 clip-rule="evenodd"
+                 y="0"
+                 x="0"
+                 id="use497"
+                 style="fill:#272727;fill-rule:evenodd" />
+              <clipPath
+                 id="XMLID_288_">
+                <use
+                   xlink:href="#XMLID_276_"
+                   height="1"
+                   width="1"
+                   y="0"
+                   x="0"
+                   id="use500" />
+              </clipPath>
+              <g
+                 clip-path="url(#XMLID_288_)"
+                 id="g502">
+                <path
+                   d="M 0,0 88,0 88,31 0,31 z"
+                   id="path504"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   d="M 0,0 83,0 83,31 0,31 z"
+                   id="path506"
+                   inkscape:connector-curvature="0"
+                   style="fill:#252626;fill-rule:evenodd" />
+                <path
+                   d="m 0.365,0 36.443,0 0,31 -36.443,0 z"
+                   id="path508"
+                   inkscape:connector-curvature="0"
+                   style="fill:#272727;fill-rule:evenodd" />
+              </g>
+            </g>
+          </g>
+          <path
+             d="M 83,1 0,1 0,0 0,0 83,0 z"
+             id="path510"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             d="M 41.5,0.5"
+             id="path512"
+             inkscape:connector-curvature="0"
+             style="fill:#cccccc" />
+          <path
+             d="m 68.273,18.844 6.018,5.504 11.71,-11.711"
+             stroke-miterlimit="3.86369991"
+             id="path514"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#005a9c;stroke-width:4.81169987;stroke-miterlimit:3.86369991" />
+          <path
+             d="m 33.077,7.037 0.334,2.034 -1.185,2.266 c 0,0 -0.455,-0.961 -1.21,-1.493 -0.636,-0.449 -1.051,-0.546 -1.699,-0.412 -0.833,0.171 -1.777,1.167 -2.189,2.395 -0.493,1.469 -0.498,2.179 -0.515,2.833 -0.027,1.046 0.137,1.665 0.137,1.665 0,0 -0.719,-1.331 -0.712,-3.279 0.005,-1.391 0.223,-2.652 0.867,-3.896 0.566,-1.094 1.408,-1.751 2.154,-1.828 0.772,-0.08 1.382,0.292 1.854,0.695 0.495,0.423 0.996,1.348 0.996,1.348 l 1.168,-2.328 z"
+             id="path516"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 33.222,18.546 c 0,0 -0.523,0.936 -0.85,1.296 -0.326,0.36 -0.91,0.996 -1.631,1.313 -0.721,0.317 -1.099,0.377 -1.811,0.309 -0.712,-0.069 -1.374,-0.481 -1.605,-0.652 -0.232,-0.172 -0.824,-0.678 -1.159,-1.15 -0.335,-0.473 -0.858,-1.417 -0.858,-1.417 0,0 0.292,0.946 0.474,1.348 0.105,0.231 0.428,0.938 0.886,1.553 0.427,0.574 1.257,1.562 2.519,1.785 1.262,0.223 2.128,-0.343 2.343,-0.48 0.214,-0.137 0.667,-0.516 0.953,-0.822 0.299,-0.32 0.582,-0.728 0.738,-0.972 0.114,-0.178 0.301,-0.541 0.301,-0.541 l -0.3,-1.57 z"
+             id="path518"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 11.437,7.127 2.852,9.698 2.852,-9.698 h 2.065 L 14.486,23.06 H 14.289 L 11.338,13.185 8.388,23.06 H 8.191 L 3.47,7.127 h 2.065 l 2.852,9.698 1.928,-6.531 -0.943,-3.167 h 2.065 z"
+             id="path520"
+             inkscape:connector-curvature="0"
+             style="fill:#005a9c" />
+          <path
+             d="m 25.072,17.946 c 0,1.443 -0.384,2.656 -1.151,3.64 -0.767,0.983 -1.76,1.475 -2.98,1.475 -0.918,0 -1.718,-0.292 -2.4,-0.875 -0.682,-0.583 -1.187,-1.374 -1.515,-2.371 l 1.613,-0.668 c 0.236,0.604 0.548,1.079 0.935,1.426 0.387,0.347 0.843,0.521 1.367,0.521 0.551,0 1.016,-0.308 1.397,-0.924 0.381,-0.616 0.571,-1.357 0.571,-2.223 0,-0.957 -0.204,-1.698 -0.61,-2.223 -0.472,-0.616 -1.214,-0.925 -2.223,-0.925 h -0.787 v -0.944 l 2.754,-4.761 h -3.325 l -0.925,1.574 h -0.59 V 7.127 h 7.672 v 0.964 l -2.912,5.016 c 1.023,0.328 1.797,0.925 2.321,1.791 0.525,0.865 0.788,1.881 0.788,3.048 z"
+             id="path522"
+             inkscape:connector-curvature="0"
+             style="fill:#005a9c" />
+          <path
+             d="m 44.053,9.391 2.53,3.721 -1.958,0 -1.705,-2.49 -1.689,2.49 -1.968,0 2.529,-3.721 -2.431,-3.569 1.963,0 1.596,2.348 1.592,-2.348 1.973,0 z"
+             id="path524"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 47.8,5.822 1.88,0 0,2.778 2.774,0 0,-2.778 1.879,0 0,7.29 -1.879,0 0,-3.091 -2.774,0 0,3.091 -1.88,0 z"
+             id="path526"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 59.702,13.112 -1.88,0 0,-5.869 -2.422,0 0,-1.421 6.719,0 0,1.421 -2.417,0 z"
+             id="path528"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 63.191,13.112 0,-7.29 2.392,0 1.661,3.901 1.67,-3.901 2.387,0 0,7.29 -1.777,0 0,-5.332 -1.68,3.93 -1.191,0 -1.68,-3.93 0,5.332 z"
+             id="path530"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 73.242,5.822 1.88,0 0,5.869 3.3,0 0,1.421 -5.18,0 z"
+             id="path532"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 41.688,22.996 0,-4.712 -1.704,0.352 0,-1.28 1.695,-0.351 1.787,0 0,5.991 1.66,0 0,1.299 -5.098,0 0,-1.299 z"
+             id="path534"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             d="m 46.435,22.405 1.758,0 0,1.89 -1.758,0 z"
+             id="path536"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+          <path
+             clip-rule="evenodd"
+             d="m 54.213,20.643 c 0,-0.911 -0.086,-1.552 -0.259,-1.924 -0.169,-0.374 -0.456,-0.561 -0.859,-0.562 -0.404,0 -0.692,0.188 -0.864,0.562 -0.173,0.371 -0.259,1.013 -0.259,1.924 0,0.921 0.086,1.571 0.259,1.948 0.172,0.378 0.46,0.566 0.864,0.566 0.4,0 0.687,-0.188 0.859,-0.566 0.173,-0.378 0.259,-1.027 0.259,-1.948 z m 1.88,0.014 c 0,1.208 -0.261,2.141 -0.781,2.798 -0.521,0.654 -1.26,0.981 -2.217,0.981 -0.96,0 -1.701,-0.327 -2.222,-0.981 -0.521,-0.657 -0.781,-1.59 -0.781,-2.798 0,-1.211 0.26,-2.144 0.781,-2.798 0.521,-0.657 1.262,-0.986 2.222,-0.986 0.957,0 1.696,0.329 2.217,0.986 0.521,0.655 0.781,1.587 0.781,2.798 z"
+             id="path538"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
