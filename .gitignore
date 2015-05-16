@@ -1,0 +1,14 @@
+# Mac
+.DS_Store
+
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Smarty
+smarty/
+
+# Temp
+temp/
