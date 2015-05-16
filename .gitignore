@@ -1,11 +1,13 @@
-# Mac
-.DS_Store
+.*
+*~
+
+# Git
+!.git*
 
 # IntelliJ Idea
 *.iml
 *.ipr
 *.iws
-.idea/
 
 # Smarty
 smarty/
