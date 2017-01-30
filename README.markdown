@@ -35,7 +35,7 @@ The following third-party libraries are used by the platform:
 
 ### Contributors
 
-* [Michael Bull][mikebull94]
+* [Michael Bull][michaelbull]
 * [Graham Edgecombe][grahamedgecombe] - Provided [site theme][css], redistribution/modification of which is prohibited.
 * [Michael Buckley][michaelbuckley] - Author of the [Pastel SVG Icon set][pastelsvg], used in the navigation bar ([LICENSE][pastelsvglicense]).
 
@@ -58,7 +58,7 @@ The following third-party libraries are used by the platform:
 [smarty]: http://www.smarty.net/
 [simpletest]: http://www.simpletest.org/
 [charts]: https://developers.google.com/chart/
-[mikebull94]: https://github.com/MikeBull94
+[michaelbull]: https://github.com/michaelbull
 [grahamedgecombe]: https://github.com/GrahamEdgecombe
 [michaelbuckley]: https://codefisher.org/about/
 [pastelsvg]: https://codefisher.org/pastel-svg/
